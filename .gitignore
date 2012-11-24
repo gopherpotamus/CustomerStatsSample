@@ -6,6 +6,15 @@ lib-cov
 *.out
 *.pid
 *.gz
+*.pdf
+*.xls
+*.xlsx
+*.prj
+*.qpj
+*.shp
+*.shx
+data
+node_modules
 
 pids
 logs
